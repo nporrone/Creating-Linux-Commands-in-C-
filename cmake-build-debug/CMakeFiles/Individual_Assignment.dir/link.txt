@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -g   CMakeFiles/Individual_Assignment.dir/filemanager.cpp.o CMakeFiles/Individual_Assignment.dir/myls.cpp.o  -o Individual_Assignment 

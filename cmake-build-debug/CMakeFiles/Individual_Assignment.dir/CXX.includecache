@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nporrone/CLionProjects/Individual Assignment/filemanager.h
+cstring
+-
+string.h
+-
+stdio.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+unistd.h
+-
+vector
+-
+pwd.h
+-
+grp.h
+-
+iostream
+-
+fstream
+-
+dirent.h
+-
+cstdlib
+-
+
+/home/nporrone/CLionProjects/Individual Assignment/myls.cpp
+filemanager.h
+/home/nporrone/CLionProjects/Individual Assignment/filemanager.h
+
